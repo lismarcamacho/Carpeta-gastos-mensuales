@@ -23,7 +23,13 @@ Combinar y cargar la tabla T CONTABILIDAD
 <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/140dc0d6-07f9-4e23-8bd8-ee1f602933d2" />
 <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/f02233ed-6c59-4021-ab68-30f4efe62fa3" />
 
-# Ahora anexamos las dos tablas a una misma tabla
+## Ahora anexamos las dos tablas a una misma tabla
 <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/4436688f-5e9e-4571-99fa-3f527bb9b944" />
 
 <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/4f6c5449-5941-4458-ae6c-621f337f9969" />
+
+## Guardamos y queda llamada como anexar
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/ade3b6f4-118d-425c-a98a-1993b16414d4" />
+
+## Entonces la renombramos como gastos totales
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/b5245ce3-2db3-4250-bacb-0dd0d98310b9" />
