@@ -50,3 +50,6 @@ Combinar y cargar la tabla T CONTABILIDAD
 <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/747d9942-15d3-4447-95a4-74cc12b10738" />
 <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/3d316faf-44b2-4655-93a9-185cb4e196b5" />
 
+##Nos devolvemos a power bi y actualizamos 
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/a5cb99cb-5f48-4b84-a0cb-4c9126b60cc3" />
+
