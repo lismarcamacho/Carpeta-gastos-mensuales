@@ -22,3 +22,5 @@ Aceptamos la carga primero de t comercial
 Combinar y cargar la tabla T CONTABILIDAD
 <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/140dc0d6-07f9-4e23-8bd8-ee1f602933d2" />
 <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/f02233ed-6c59-4021-ab68-30f4efe62fa3" />
+
+# Ahora anexamos las dos tablas a una misma tabla
