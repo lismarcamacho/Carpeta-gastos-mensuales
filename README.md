@@ -8,3 +8,6 @@ del cursos intermedio Power Bi - Santander Open Academy
 
 ## Ejercicio 10 Gastos Dic
 <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/2997ac23-e7f8-4192-85d5-4cf90396ad9d" />
+
+Acptamos la carga primero de t comercial
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/b3fb6f25-1cd6-4f3e-9432-5bcf682dfa19" />
