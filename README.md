@@ -24,4 +24,5 @@ Combinar y cargar la tabla T CONTABILIDAD
 <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/f02233ed-6c59-4021-ab68-30f4efe62fa3" />
 
 # Ahora anexamos las dos tablas a una misma tabla
-<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/82ab2522-4178-4c48-84f7-a5543cc189ae" />
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/4436688f-5e9e-4571-99fa-3f527bb9b944" />
+
