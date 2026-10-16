@@ -45,3 +45,8 @@ Combinar y cargar la tabla T CONTABILIDAD
 <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/68c2b2c5-0597-4775-897e-d0a77de6c757" />
 
 <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/ec2271b9-5d70-43bc-a394-1c00a062222c" />
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/37f6577b-9594-4f0c-a726-688257be5ad5" />
+
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/747d9942-15d3-4447-95a4-74cc12b10738" />
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/3d316faf-44b2-4655-93a9-185cb4e196b5" />
+
