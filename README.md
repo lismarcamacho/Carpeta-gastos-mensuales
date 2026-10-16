@@ -52,4 +52,7 @@ Combinar y cargar la tabla T CONTABILIDAD
 
 ##Nos devolvemos a power bi y actualizamos 
 <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/a5cb99cb-5f48-4b84-a0cb-4c9126b60cc3" />
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/c449022f-50d4-4c41-97b1-0905d655d382" />
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/ecbebf34-c0b0-4c3b-acf0-cec0bcf5614b" />
+
 
