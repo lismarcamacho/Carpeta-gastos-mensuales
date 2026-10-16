@@ -12,5 +12,12 @@ del cursos intermedio Power Bi - Santander Open Academy
 
 <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/2997ac23-e7f8-4192-85d5-4cf90396ad9d" />
 
-Acptamos la carga primero de t comercial
+Aceptamos la carga primero de t comercial
 <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/b3fb6f25-1cd6-4f3e-9432-5bcf682dfa19" />
+
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/d87ecb27-6e00-40fa-a3de-547be95a6493" />
+
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/58dc523d-f0d8-463c-9a37-6c4dc9b421d1" />
+
+Combinar y cargar la tabla T CONTABILIDAD
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/140dc0d6-07f9-4e23-8bd8-ee1f602933d2" />
