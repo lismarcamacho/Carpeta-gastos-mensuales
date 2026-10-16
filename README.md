@@ -33,3 +33,11 @@ Combinar y cargar la tabla T CONTABILIDAD
 
 ## Entonces la renombramos como gastos totales
 <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/b5245ce3-2db3-4250-bacb-0dd0d98310b9" />
+
+## Deshabilitamos la carga de GASTOS COMERCIAL Y GASTOS CONTABILIDAD
+
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/02e6aa83-f7fe-46b5-8cbb-caf84a5f9e40" />
+
+## Ya deshabilitadas la carga de GASTOS COMERCIAL Y GASTOS CONTABILIDAD
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/cd9c2f3e-e244-4833-b1ce-38b3437320df" />
+
