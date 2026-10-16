@@ -41,3 +41,7 @@ Combinar y cargar la tabla T CONTABILIDAD
 ## Ya deshabilitadas la carga de GASTOS COMERCIAL Y GASTOS CONTABILIDAD
 <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/cd9c2f3e-e244-4833-b1ce-38b3437320df" />
 
+## Ahora vamos a la ficha de inicio y le damos cerrar y aplicar para esperar que se cargue la tabla que acabamos de anezxar con los GASTOS TOTALES
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/68c2b2c5-0597-4775-897e-d0a77de6c757" />
+
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/ec2271b9-5d70-43bc-a394-1c00a062222c" />
